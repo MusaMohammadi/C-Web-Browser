@@ -1,0 +1,17 @@
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\bin\Debug\Browser.exe.config
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\bin\Debug\Browser.exe.manifest
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\bin\Debug\Browser.application
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\bin\Debug\Browser.exe
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\bin\Debug\Browser.pdb
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.Favourites.resources
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.History.resources
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.mainWindow.resources
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.Settings.resources
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.exe.manifest
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.application
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.exe
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.pdb
+C:\Users\musam\OneDrive\Year 4\F21SC\Coursework\Cw1\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
